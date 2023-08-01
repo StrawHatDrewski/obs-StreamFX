@@ -40,3 +40,4 @@ Packaging has two options, 7zip and zip. Simply run the targets PACKAGE_ZIP and/
 To ease detection of bad commits and PRs, CI support has been added to the project. Currently the following CI providers are supported:
 
 - AppVeyor (for Windows on any support Visual Studio version)
+
